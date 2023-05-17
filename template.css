@@ -1,0 +1,14 @@
+body
+{
+background-color: pink;	
+
+}
+ul
+{
+	list-style;
+}
+ul li{
+	display: inline-block;
+	padding:5px;
+	border:2px solid white;
+}
